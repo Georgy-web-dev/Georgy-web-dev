@@ -5,7 +5,7 @@
 **Front-end developer. Vanilla JS, no build step.**
 
 I build interaction-heavy sites without a framework, and I learn e-commerce by
-shipping into live stores. AI agents are my tooling, not my product.
+shipping into live stores.
 
 <sub>JavaScript · CSS · SVG · Liquid · PHP</sub>
 
