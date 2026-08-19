@@ -25,17 +25,6 @@ shipping into live stores.
 Most of my work is client-owned, so these repos are the parts I can show — my own
 code, write-ups, and redacted screenshots. Happy to walk through the rest properly.
 
-## How I build
-
-**No build step.** Clone it, open `index.html`. If a hidden checkbox and a sibling
-selector give you a mobile nav that survives JS being off, that is the mobile nav.
-
-**Tokens, not hex codes.** Every palette has one source of truth at the top of one
-stylesheet, including when the job is rebinding somebody else's theme.
-
-**AI agents as tooling.** Custom Claude Code skills and an OpenCode bot that lets me
-drive a session from my phone. It is how I work, not what I sell.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/georgy-singh-04a15842b/)
