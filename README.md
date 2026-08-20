@@ -17,6 +17,7 @@ shipping into live stores.
 
 | Project | What it is | |
 |---|---|---|
+| **Invaders** | An AI-first perpetuals aggregator. Front-end work across ~350 commits — a WebGL arcade landing, the chat surface, the order book and PnL share cards, and the mobile layout. Client-owned, private repo. | [**Live**](https://invaders.trade) |
 | **[YARA](https://github.com/Georgy-web-dev/yara-artist-site)** | An artist site built as a game, not a page — seven fullscreen chapters, a hand-rolled SVG wave transition, a rotating card-deck gallery, three languages. ~1,900 lines. | [**Live**](https://georgy-web-dev.github.io/yara-artist-site/) |
 | **[OFFMARKET](https://github.com/Georgy-web-dev/offmarket-shopify-theme)** | A bespoke Shopify Online Store 2.0 theme layer — eight custom sections and a design system that rebinds the parent theme's tokens. ~6,100 lines. | [**Live**](https://offmarkethub.shop) |
 | **[Axis Port](https://github.com/Georgy-web-dev/axisport-site)** | Five-page site for a London commodities trading company. No build step, no framework, no CMS, no backend. | [**Live**](https://axisport.uk) |
